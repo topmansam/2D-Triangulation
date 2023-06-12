@@ -7,7 +7,7 @@ This is a C++ program that implements a 2D triangulation algorithm. The program 
 - Implements a cleanup algorithm to remove unnecessary triangles.
 - Calculates the distance between points and lines.
 - Checks for intersection between line segments.
-- 
+
 ## Dependencies
 - freeglut
 - FreeImage
